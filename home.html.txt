@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Welcome to Group 8</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="#about">About Us</a></li>
+                    <li><a href="#contact">Contact Us</a></li>
+                    <li>
+                        <form action="#" method="get" class="search-form">
+                            <input type="text" placeholder="Search..." name="search">
+                            <button type="submit">Search</button>
+                        </form>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <div class="container">
+        <section id="about">
+            <h2>About Us</h2>
+            <p>Welcome to Group 8! We are a team of dedicated individuals working on exciting projects and collaborations. Our mission is to bring innovative solutions and ideas to life. Stay tuned for more updates and feel free to get in touch with us!</p>
+
+            
+            <div class="team-profile">
+                <div class="profile">
+                    <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/455620879_1185931929193406_6113367559798932034_n.jpg?stp=dst-jpg_s403x403&_nc_cat=107&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeHmrkdXAQR2YvuyY-eNGw4UK1YVAGuJMQIrVhUAa4kxAgHY81RQjPU7XVpkLBeyl9A2rdZ9QUrMRuipRZ5E3wnv&_nc_ohc=jbqpRNGIqroQ7kNvgG0x_jD&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_gid=ASlh5hrQEZiprKvwaf-sPAm&oh=03_Q7cD1QFq_a5GAZvKjxnJu-S1gfQJxxV0GzBW8RowBVDGj-y7OQ&oe=66F622EF" alt="Josh Castillo">
+                    <h2>Josh Castillo</h2>
+                    <p>Bini Josh<br>19 years old<br>Blk 28 Lot 26 SHV Putatan<br>The Gymrat.<br>the most handsome of all.<br>jack of all trades.<br>the best person you can rely on.<br>the best person in the whole wide world.<br>kidding, just a normal person who dreamed of everything with my TOTGA.</p>
+                </div>
+                <div class="profile">
+                    <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/448759565_3349818431978873_1983703846100019516_n.jpg?stp=dst-jpg_s480x480&_nc_cat=105&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeEDYms4VWaMXMF7eFvn7_sS5g7sWQuqR_jmDuxZC6pH-BQY6LV6ogZ-8SRgFxZuKxnENSU24IztCO2Xwj9TroYZ&_nc_ohc=OvYp1yLgOIEQ7kNvgHvc7W6&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QGzuAJjxlyOp3baJpeG8O0Ydf5r_gHAn0lwYgMPvHNVFg&oe=66F52975" alt="Arwin Aguas">

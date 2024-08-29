@@ -1,0 +1,24 @@
+document.getElementById("contactForm").addEventListener("submit", function(event) {
+    const name = document.getElementById("name").value;
+    const email = document.getElementById("email").value;
+    const message = document.getElementById("messageField").value;
+
+    if (name === "" || email === "" || message === "") {
+        event.preventDefault();
+        alert("Please fill in all fields.");
+    }
+});
+document.getElementById('search-bar').addEventListener('input', function() {
+    let searchQuery = this.value.toLowerCase();
+    let profiles = document.querySelectorAll('.profile');
+
+    profiles.forEach(profile => {
+        let name = profile.getAttribute('data-name').toLowerCase();
+
+        if (searchQuery.split(',').map(term => term.trim().toLowerCase()).includes(name)) {
+            profile.style.display = 'block'; 
+        } else {
+            profile.style.display = 'none'; 
+        }
+    });
+});
