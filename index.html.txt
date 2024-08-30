@@ -6,7 +6,6 @@
     <title>Group 8: Team Gin with Nestea</title>
     <link rel="stylesheet" href="style.css">
     <style>
-        
         .contact-section {
             position: absolute;
             bottom: 20px;
@@ -84,7 +83,7 @@
     </header>
 
     <div class="container">
-       
+
         <div class="contact-section">
             <div class="slideshow-container">
                 <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/455323578_883378626985626_3142330665925073083_n.jpg?stp=dst-jpg_p180x540&_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeGFRKKdY0POtWqqr77U3v1kwZBBJtjwkD7BkEEm2PCQPkOTB_VYoYbjQsMOjFNA1DT0Y9DEEUpDX59yhCgR6q7i&_nc_ohc=13aDaNfS5NsQ7kNvgHtos2A&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QFOR6_aGU4Wf6Vc2W_Jv-jOatSlyrnBSq_AfxxuYRGPgg&oe=66F4FCA4" class="slide" alt="Slide 1">
@@ -112,7 +111,6 @@
     </div>
 
     <script>
-        
         let slideIndex = 0;
         const slides = document.querySelectorAll('.slideshow-container img');
         const totalSlides = slides.length;
