@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -40,3 +41,39 @@
                 </div>
                 <div class="profile">
                     <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/448759565_3349818431978873_1983703846100019516_n.jpg?stp=dst-jpg_s480x480&_nc_cat=105&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeEDYms4VWaMXMF7eFvn7_sS5g7sWQuqR_jmDuxZC6pH-BQY6LV6ogZ-8SRgFxZuKxnENSU24IztCO2Xwj9TroYZ&_nc_ohc=OvYp1yLgOIEQ7kNvgHvc7W6&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QGzuAJjxlyOp3baJpeG8O0Ydf5r_gHAn0lwYgMPvHNVFg&oe=66F52975" alt="Arwin Aguas">
+                    <h2>Arwin Aguas</h2>
+                    <p>Bini Arwin<br>26 years old<br>Blk 53 Lot 22 Gen Gregorio Del Pilar St. SHV<br>Behind all the muscles, all the pounds gained, every weight lifted, is just a little kid who didn't want feel weak or hurt ever again.</p>
+                </div>
+                <div class="profile">
+                    <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/456951522_1603863767011262_1162274274048410487_n.jpg?stp=dst-jpg_s403x403&_nc_cat=107&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeGbgDJTUnLqRpxEeWgvtKQXaujSOvnwJsFq6NI6-fAmwVBw6hage10OLGXPwSD7l-U-VgCoY6eQP6GqacThvY2B&_nc_ohc=QdMhVttJrKEQ7kNvgGaUODg&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QGiYXpORzrb5oo7Q0o6bsRyOMIQGNGFf_qoSFQQzZj5vg&oe=66F52DC6" alt="Andrei Egualan">
+                    <h2>Andrei Egualan</h2>
+                    <p>Bini Andrei<br>20 Years Old<br>Lodora Village <br>The secret of health for both mind and the body is not to mourn for the past, not to worry about the future, or not to anticipate troubles, but to live in the present moment wisely and earnestly.</p>
+                </div>
+                <div class="profile">
+                    <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/455323578_883378626985626_3142330665925073083_n.jpg?stp=dst-jpg_p180x540&_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeGFRKKdY0POtWqqr77U3v1kwZBBJtjwkD7BkEEm2PCQPkOTB_VYoYbjQsMOjFNA1DT0Y9DEEUpDX59yhCgR6q7i&_nc_ohc=13aDaNfS5NsQ7kNvgHtos2A&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QFOR6_aGU4Wf6Vc2W_Jv-jOatSlyrnBSq_AfxxuYRGPgg&oe=66F4FCA4" alt="Lorenzo Valdez">
+                    <h2>Lorenzo Valdez</h2>
+                    <p>Bini Lorenzo<br>22 years old<br>Esporlas Upper Putatan<br>I have wasted a lot of time trying to be loved by everyone else when I should have been learning how to love myself.You can't go back and change the beginning but you can start where you are and change the ending.</p>
+                </div>
+                <div class="profile">
+                    <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/419213255_1090038565772264_2688707345675697790_n.jpg?stp=dst-jpg_p320x320&_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeECeGqF8aFZUDRMP2jEzHFPk99e11eF_2GT317XV4X_YSizfYqZg1OD8lH_sxwS6TomXrUc2AijpiAj0ob0XXXf&_nc_ohc=nlaYdfEV2hgQ7kNvgEiooLV&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QHo_hudyLN8iNLU_aHkesDFOvZJ9r8oy-tVdK2AvUqFtg&oe=66F4FD7A" alt="Serge Yusingco">
+                    <h2>Serge Yusingco</h2>
+                    <p>Bini Serge<br>23 years old<br>709-B Aster Street, Lakeview Homes Putatan<br>Your personality isn't set in stone; it's a work in progress. Every action, every thought, shapes the person you become. Embrace the power to change, grow, and refine the traits that define who you are.</p>
+                </div>
+            </div>
+            
+             
+        </section>
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>If you have any questions or need to get in touch, please reach out through our contact form.</p>
+        </section>
+    </div>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Group 8. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
